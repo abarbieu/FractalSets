@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39c181e8-7aaa-41db-9da6-1dcd158904cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Dimension3/.idea/Dimension3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dimension3/.idea/Dimension3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mandelbrot/.idea/Mandelbrot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mandelbrot/.idea/Mandelbrot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mandelbrot/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mandelbrot/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mandelbrot/Saved/Save.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mandelbrot/Saved/Save.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.43021473">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Rendering.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="252">
+                  <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+                  <folding>
+                    <element signature="method#setup#0;class#Rendering#0" />
+                    <element signature="e#576#869#1" />
+                    <element signature="e#602#694#1" />
+                    <element signature="e#699#859#1" />
+                    <element signature="e#1119#1480#0" />
+                    <element signature="method#mouseClicked#0;class#Rendering#0" />
+                    <element signature="method#mouseReleased#0;class#Rendering#0" />
+                    <element signature="e#1192#1307#1" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Fractal.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="30" selection-start-column="30" selection-end-column="30" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Point.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+                  <folding>
+                    <element signature="method#dist#0;class#Point#0" />
+                    <element signature="n#!!block;n#rect#0;n#Point#0" />
+                    <element signature="n#!!block;n#circle#0;n#Point#0" />
+                    <element signature="method#toString#0;class#Point#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Viewport.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+                  <folding>
+                    <element signature="method#Viewport#0;class#Viewport#0" />
+                    <element signature="method#Viewport#1;class#Viewport#0" />
+                    <element signature="method#match#0;class#Viewport#0" />
+                    <element signature="method#devineBirth#0;class#Viewport#0" />
+                    <element signature="n#!!block;n#birth#0;n#Viewport#0" />
+                    <element signature="method#putIn#0;class#Viewport#0" />
+                    <element signature="method#drawBounds#0;class#Viewport#0" />
+                    <element signature="method#resize#0;class#Viewport#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/out/Magic.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="441" column="21" lean-forward="true" selection-start-line="441" selection-start-column="21" selection-end-line="441" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#1160#1313#0" />
+                    <element signature="e#1227#1270#1" />
+                    <element signature="e#1318#1421#0" />
+                    <element signature="e#1427#1700#0" />
+                    <element signature="e#1706#2775#0" />
+                    <element signature="e#1748#1864#1" />
+                    <element signature="e#1926#1995#1" />
+                    <element signature="e#1999#2071#1" />
+                    <element signature="e#2096#2299#1" />
+                    <element signature="e#2328#2587#0" />
+                    <element signature="e#2588#2769#0" />
+                    <element signature="e#2780#2848#0" />
+                    <element signature="e#2853#2995#0" />
+                    <element signature="e#2914#2989#1" />
+                    <element signature="e#3000#3764#0" />
+                    <element signature="e#3029#3056#0" />
+                    <element signature="e#3308#3466#1" />
+                    <element signature="e#3500#3654#1" />
+                    <element signature="e#3824#3865#0" />
+                    <element signature="e#3998#4141#0" />
+                    <element signature="e#4146#6649#0" />
+                    <element signature="e#4608#6181#1" />
+                    <element signature="e#4670#5742#1" />
+                    <element signature="e#4697#4846#1" />
+                    <element signature="e#4851#5001#1" />
+                    <element signature="e#5031#5390#1" />
+                    <element signature="e#5394#5530#1" />
+                    <element signature="e#5531#5613#0" />
+                    <element signature="e#5775#6171#1" />
+                    <element signature="e#5890#6090#1" />
+                    <element signature="e#5928#5998#1" />
+                    <element signature="e#6002#6072#1" />
+                    <element signature="e#6252#6293#1" />
+                    <element signature="e#6297#6338#1" />
+                    <element signature="e#6361#6458#1" />
+                    <element signature="e#6654#7032#0" />
+                    <element signature="e#6772#7007#1" />
+                    <element signature="e#6816#6857#1" />
+                    <element signature="e#7037#7738#0" />
+                    <element signature="e#7277#7713#1" />
+                    <element signature="e#7321#7362#1" />
+                    <element signature="e#7743#8097#0" />
+                    <element signature="e#8097#8985#0" />
+                    <element signature="e#7743#9372#0" />
+                    <element signature="e#9111#9346#1" />
+                    <element signature="e#9155#9196#1" />
+                    <element signature="e#9378#9596#0" />
+                    <element signature="e#9629#9671#0" />
+                    <element signature="e#9676#11252#0" />
+                    <element signature="e#9769#9956#1" />
+                    <element signature="e#9961#10023#1" />
+                    <element signature="e#10085#10187#1" />
+                    <element signature="e#10191#10341#1" />
+                    <element signature="e#10914#11070#0" />
+                    <element signature="e#11257#11828#0" />
+                    <element signature="e#11325#11369#1" />
+                    <element signature="e#11373#11429#1" />
+                    <element signature="e#11629#11758#0" />
+                    <element signature="e#11833#13731#0" />
+                    <element signature="e#11887#13646#0" />
+                    <element signature="e#12051#13636#1" />
+                    <element signature="e#12081#13599#0" />
+                    <element signature="e#13679#13723#0" />
+                    <element signature="e#13766#13853#0" />
+                    <element signature="e#13887#13977#0" />
+                    <element signature="e#14012#14070#0" />
+                    <element signature="e#14105#14165#0" />
+                    <element signature="e#14170#14276#0" />
+                    <element signature="e#14281#14390#0" />
+                    <element signature="e#14629#15347#0" />
+                    <element signature="e#14730#14816#1" />
+                    <element signature="e#14820#14918#1" />
+                    <element signature="e#15511#15606#1" />
+                    <element signature="e#15611#15705#1" />
+                    <element signature="e#16212#16303#0" />
+                    <element signature="e#16326#16386#0" />
+                    <element signature="e#16646#16741#1" />
+                    <element signature="e#16746#16853#1" />
+                    <element signature="e#16932#17027#1" />
+                    <element signature="e#17032#17139#1" />
+                    <element signature="e#18971#19020#1" />
+                    <element signature="e#19024#19071#1" />
+                    <element signature="e#19146#19195#1" />
+                    <element signature="e#19199#19246#1" />
+                    <element signature="e#19325#19413#1" />
+                    <element signature="e#19418#19518#1" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Math.abs</find>
+      <find>setM</find>
+      <find>mainV</find>
+      <find>this</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>mother</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Julia.java" />
+        <option value="$PROJECT_DIR$/src/Point.java" />
+        <option value="$PROJECT_DIR$/src/Fractal.java" />
+        <option value="$PROJECT_DIR$/src/Mandelbrot.java" />
+        <option value="$PROJECT_DIR$/src/Viewport.java" />
+        <option value="$PROJECT_DIR$/src/Rendering.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/MandelCrot.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="95" />
+    <option name="width" value="1920" />
+    <option name="height" value="2060" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MandelCrot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MandelCrot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MandelCrot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MandelCrot" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MandelCrot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MandelCrot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\happy\github\MandelCrot\out" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Rendering" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rendering" />
+      <module name="MandelCrot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Rendering" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39c181e8-7aaa-41db-9da6-1dcd158904cf" name="Default Changelist" comment="" />
+      <created>1556737875048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556737875048</updated>
+      <workItem from="1556737878013" duration="3082000" />
+      <workItem from="1556906010134" duration="10740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13822000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12541918" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32956153" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3592645" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/RunBox.java" />
+    <entry file="file://$PROJECT_DIR$/src/Julia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/awt/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/processing-core.jar!/processing/event/Event.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#1053#1054#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/processing-core.jar!/processing/event/MouseEvent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#1055#1056#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/processing-core.jar!/processing/core/PImage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="205" selection-start-line="205" selection-end-line="205" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/processing-core.jar!/processing/core/PSurfaceNone.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/processing-core.jar!/processing/awt/PSurfaceAWT.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#23255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/processing-core.jar!/processing/awt/PGraphicsJava2D.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="882" selection-start-line="882" selection-end-line="882" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/processing-core.jar!/processing/core/PGraphics.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="2956" selection-start-line="2956" selection-end-line="2956" />
+          <folding>
+            <element signature="e#96570#96571#0" expanded="true" />
+            <element signature="e#96623#96624#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/processing-core.jar!/processing/core/PApplet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="6505" selection-start-line="6505" selection-end-line="6505" />
+          <folding>
+            <element signature="e#29900#29901#0" expanded="true" />
+            <element signature="e#29936#29937#0" expanded="true" />
+            <element signature="e#30518#30519#0" expanded="true" />
+            <element signature="e#30552#30553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mandelbrot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fractal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/Magic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="441" column="21" lean-forward="true" selection-start-line="441" selection-start-column="21" selection-end-line="441" selection-end-column="21" />
+          <folding>
+            <element signature="e#1160#1313#0" />
+            <element signature="e#1227#1270#1" />
+            <element signature="e#1318#1421#0" />
+            <element signature="e#1427#1700#0" />
+            <element signature="e#1706#2775#0" />
+            <element signature="e#1748#1864#1" />
+            <element signature="e#1926#1995#1" />
+            <element signature="e#1999#2071#1" />
+            <element signature="e#2096#2299#1" />
+            <element signature="e#2328#2587#0" />
+            <element signature="e#2588#2769#0" />
+            <element signature="e#2780#2848#0" />
+            <element signature="e#2853#2995#0" />
+            <element signature="e#2914#2989#1" />
+            <element signature="e#3000#3764#0" />
+            <element signature="e#3029#3056#0" />
+            <element signature="e#3308#3466#1" />
+            <element signature="e#3500#3654#1" />
+            <element signature="e#3824#3865#0" />
+            <element signature="e#3998#4141#0" />
+            <element signature="e#4146#6649#0" />
+            <element signature="e#4608#6181#1" />
+            <element signature="e#4670#5742#1" />
+            <element signature="e#4697#4846#1" />
+            <element signature="e#4851#5001#1" />
+            <element signature="e#5031#5390#1" />
+            <element signature="e#5394#5530#1" />
+            <element signature="e#5531#5613#0" />
+            <element signature="e#5775#6171#1" />
+            <element signature="e#5890#6090#1" />
+            <element signature="e#5928#5998#1" />
+            <element signature="e#6002#6072#1" />
+            <element signature="e#6252#6293#1" />
+            <element signature="e#6297#6338#1" />
+            <element signature="e#6361#6458#1" />
+            <element signature="e#6654#7032#0" />
+            <element signature="e#6772#7007#1" />
+            <element signature="e#6816#6857#1" />
+            <element signature="e#7037#7738#0" />
+            <element signature="e#7277#7713#1" />
+            <element signature="e#7321#7362#1" />
+            <element signature="e#7743#8097#0" />
+            <element signature="e#8097#8985#0" />
+            <element signature="e#7743#9372#0" />
+            <element signature="e#9111#9346#1" />
+            <element signature="e#9155#9196#1" />
+            <element signature="e#9378#9596#0" />
+            <element signature="e#9629#9671#0" />
+            <element signature="e#9676#11252#0" />
+            <element signature="e#9769#9956#1" />
+            <element signature="e#9961#10023#1" />
+            <element signature="e#10085#10187#1" />
+            <element signature="e#10191#10341#1" />
+            <element signature="e#10914#11070#0" />
+            <element signature="e#11257#11828#0" />
+            <element signature="e#11325#11369#1" />
+            <element signature="e#11373#11429#1" />
+            <element signature="e#11629#11758#0" />
+            <element signature="e#11833#13731#0" />
+            <element signature="e#11887#13646#0" />
+            <element signature="e#12051#13636#1" />
+            <element signature="e#12081#13599#0" />
+            <element signature="e#13679#13723#0" />
+            <element signature="e#13766#13853#0" />
+            <element signature="e#13887#13977#0" />
+            <element signature="e#14012#14070#0" />
+            <element signature="e#14105#14165#0" />
+            <element signature="e#14170#14276#0" />
+            <element signature="e#14281#14390#0" />
+            <element signature="e#14629#15347#0" />
+            <element signature="e#14730#14816#1" />
+            <element signature="e#14820#14918#1" />
+            <element signature="e#15511#15606#1" />
+            <element signature="e#15611#15705#1" />
+            <element signature="e#16212#16303#0" />
+            <element signature="e#16326#16386#0" />
+            <element signature="e#16646#16741#1" />
+            <element signature="e#16746#16853#1" />
+            <element signature="e#16932#17027#1" />
+            <element signature="e#17032#17139#1" />
+            <element signature="e#18971#19020#1" />
+            <element signature="e#19024#19071#1" />
+            <element signature="e#19146#19195#1" />
+            <element signature="e#19199#19246#1" />
+            <element signature="e#19325#19413#1" />
+            <element signature="e#19418#19518#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Rendering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+          <folding>
+            <element signature="method#setup#0;class#Rendering#0" />
+            <element signature="e#576#869#1" />
+            <element signature="e#602#694#1" />
+            <element signature="e#699#859#1" />
+            <element signature="e#1119#1480#0" />
+            <element signature="method#mouseClicked#0;class#Rendering#0" />
+            <element signature="method#mouseReleased#0;class#Rendering#0" />
+            <element signature="e#1192#1307#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Viewport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="method#Viewport#0;class#Viewport#0" />
+            <element signature="method#Viewport#1;class#Viewport#0" />
+            <element signature="method#match#0;class#Viewport#0" />
+            <element signature="method#devineBirth#0;class#Viewport#0" />
+            <element signature="n#!!block;n#birth#0;n#Viewport#0" />
+            <element signature="method#putIn#0;class#Viewport#0" />
+            <element signature="method#drawBounds#0;class#Viewport#0" />
+            <element signature="method#resize#0;class#Viewport#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding>
+            <element signature="method#dist#0;class#Point#0" />
+            <element signature="n#!!block;n#rect#0;n#Point#0" />
+            <element signature="n#!!block;n#circle#0;n#Point#0" />
+            <element signature="method#toString#0;class#Point#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MandelCrot</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
